@@ -1,0 +1,33 @@
+<div class="form-floating mb-3">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+  <label for="floatingInput">Email address</label>
+</div>
+<div class="form-floating">
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+  <label for="floatingPassword">Password</label>
+</div>
+
+
+
+
+
+<i class="fa-brands fa-apple"></i>
+<i class="fa-solid fa-mobile"></i>
+<i class="fa-brands fa-windows"></i>
+
+
+
+<i class="fa-regular fa-lemon"></i>
+<i class="fa-regular fa-bookmark"></i>
+<i class="fa-regular fa-file"></i>
+<i class="fa-solid fa-code"></i>
+<i class="fa-regular fa-envelope"></i>
+
+
+
+
+
+<i class="fa-brands fa-facebook"></i>
+<i class="fa-brands fa-square-twitter"></i>
+<i class="fa-brands fa-google-plus"></i>
+<i class="fa-brands fa-square-pinterest"></i>

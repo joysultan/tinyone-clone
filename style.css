@@ -1,0 +1,165 @@
+/* header start */
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+header{
+    background-color: #FCDB00;
+    padding-top: 15px;
+}
+.menu{}
+.menu a{
+    font-size: 22px;
+    color:black;
+    margin: 0 30px;
+    font-weight: 700;
+    transition: .3s all ease-in;
+   
+}
+.menu a:hover{
+    color: white;
+}
+/* header end */
+
+.slider{
+    background-color: #FCDB00;
+    padding-bottom: 100px;
+}
+.slider-img img{
+    border-radius:20px;
+}
+.slider-content{
+    padding-top: 60px;
+}
+.slider-content h1{
+    font-size: 35px;
+    color: #010101;
+    font-weight: 700;
+}
+.slider-content h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+    margin-top: 15px;
+    margin-bottom:15px
+    
+}
+.slider-content p{
+    font-weight: 400;
+}
+.slider-img{
+    padding-top: 35px;
+}
+.s-icon{
+    font-size: 45px;
+    color: black;
+    margin-right: 15px;
+    margin-top: 50px;
+}
+.fa-brands, .fab{
+    margin-right: 18px;
+}
+.carousel-indicators{
+    bottom:-60px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+/* feature start */
+.feature{}
+.f-title{}
+.f-h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+.f-p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+}
+/* feature end */
+
+/* service start */
+.service{
+    margin-top: 20px;
+}
+    .s_icon{
+        font-size: 50px;
+        
+    }
+    .fa-solid, .fas{
+        /* margin-left: 80px; */
+    }
+    .s-h5{
+        font-size: 22px;
+        font-weight: 700;
+        color: #010101;
+
+    }
+    .s-p{
+        font-weight: 400;
+        color: #898989;
+    }
+/* service end */
+
+/* footer start */
+.footer{
+    background-color: #010101;
+    padding-top:100px;
+    padding-bottom: 80px;
+}
+.form{
+    height: 50px;
+   
+}
+.f-input{
+    border-radius:8px;
+    padding-left: 15px;
+    padding: 20px 15px;
+}
+.c-color{
+    color: #FCDB00;
+    font-size:32px;
+    font-weight: 600; 
+    font-family: 'PT Sans', sans-serif;
+}
+.c_p{
+    color: #898989;
+}
+.c_submit{
+    background-color: #FCDB00;
+    padding: 10px 20px;
+    font-size: 19px;
+    font-weight: 700;
+    text-align: center;
+    transition: .3s all ease-in;
+}
+.c_submit:hover{
+    background-color: #010101;
+    color: yellow;
+}
+.s_text{
+    text-align: center;
+    font-weight: 700;
+    color: #010101;
+    text-transform: uppercase;
+    font-size: 19px;
+    outline: none ;
+    border: none;
+    
+}
+.s_text:hover{
+    outline: none;
+    border: transparent !important;
+}
+/* icon start */
+.fa-brands, .fab{
+    font-size: 42px;
+    /* color: #FCDB00; */
+    color: black;
+}
+/* icon end */
+/* footer end */
