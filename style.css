@@ -51,10 +51,13 @@ header{
 }
 .s-icon{
     font-size: 45px;
-    color: black;
+    color: black !important;
     margin-right: 15px;
     margin-top: 50px;
+  
+    
 }
+
 .fa-brands, .fab{
     margin-right: 18px;
 }
@@ -156,7 +159,7 @@ header{
     border: transparent !important;
 }
 /* icon start */
-.fa-brands, .fab{
+.social-icon{
     font-size: 42px;
     color: #FCDB00;
   
